@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/616309155816196120/5a8eb6d734b0466683a55b3aee69edf8/artifacts
+deleted_time: 1743955749954
+end_time: 1743949944454
+entry_point_name: ''
+experiment_id: '616309155816196120'
+lifecycle_stage: deleted
+run_id: 5a8eb6d734b0466683a55b3aee69edf8
+run_name: bedecked-wren-703
+run_uuid: 5a8eb6d734b0466683a55b3aee69edf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743949943683
+status: 4
+tags: []
+user_id: ranje

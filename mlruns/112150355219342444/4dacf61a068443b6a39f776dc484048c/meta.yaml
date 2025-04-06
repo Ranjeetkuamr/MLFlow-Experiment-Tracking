@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflow/mlruns/112150355219342444/4dacf61a068443b6a39f776dc484048c/artifacts
+end_time: 1743961600748
+entry_point_name: ''
+experiment_id: '112150355219342444'
+lifecycle_stage: active
+run_id: 4dacf61a068443b6a39f776dc484048c
+run_name: invincible-skink-230
+run_uuid: 4dacf61a068443b6a39f776dc484048c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743961588609
+status: 3
+tags: []
+user_id: ranje

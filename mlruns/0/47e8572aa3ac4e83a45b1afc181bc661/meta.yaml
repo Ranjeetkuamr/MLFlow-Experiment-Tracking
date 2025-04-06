@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflow/mlruns/0/47e8572aa3ac4e83a45b1afc181bc661/artifacts
+end_time: 1743891720512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e8572aa3ac4e83a45b1afc181bc661
+run_name: indecisive-perch-592
+run_uuid: 47e8572aa3ac4e83a45b1afc181bc661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743891720335
+status: 3
+tags: []
+user_id: ranje

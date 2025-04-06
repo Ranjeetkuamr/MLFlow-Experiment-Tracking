@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflow/mlruns/0/7ed5561b7b054c60bd49eae01e52e1b6/artifacts
+end_time: 1743950365125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ed5561b7b054c60bd49eae01e52e1b6
+run_name: rare-duck-243
+run_uuid: 7ed5561b7b054c60bd49eae01e52e1b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743950364351
+status: 3
+tags: []
+user_id: ranje

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/616309155816196120/5c9791a82a5942fbbe333f3c43f12566/artifacts
+deleted_time: 1743955749954
+end_time: 1743949898463
+entry_point_name: ''
+experiment_id: '616309155816196120'
+lifecycle_stage: deleted
+run_id: 5c9791a82a5942fbbe333f3c43f12566
+run_name: burly-stork-439
+run_uuid: 5c9791a82a5942fbbe333f3c43f12566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743949896847
+status: 4
+tags: []
+user_id: ranje

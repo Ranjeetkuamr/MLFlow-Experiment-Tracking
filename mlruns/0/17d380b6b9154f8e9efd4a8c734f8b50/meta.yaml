@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflow/mlruns/0/17d380b6b9154f8e9efd4a8c734f8b50/artifacts
+end_time: 1743952078389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d380b6b9154f8e9efd4a8c734f8b50
+run_name: serious-stoat-132
+run_uuid: 17d380b6b9154f8e9efd4a8c734f8b50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743952077585
+status: 3
+tags: []
+user_id: ranje
